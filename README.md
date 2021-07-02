@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlieoc
+- 👋 Hi, I’m RobertO Ortiz (@charlieoc)
 - 👀 I’m interested in Python and NLP
 - 🌱 I’m currently learning about that
 - 💞️ I’m looking to collaborate on basic projects with python and NLP
